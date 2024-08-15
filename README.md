@@ -1,6 +1,6 @@
 # Integrante del grupo
 
-Sara Villanueva
+Sara Lucia Villanueva Arcila
 
 # Para correr el programa
 
